@@ -1,0 +1,9 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.autosave
+*.pro.user

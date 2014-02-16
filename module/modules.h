@@ -1,0 +1,23 @@
+#ifndef MODULES_H
+#define MODULES_H
+#include "add.h"
+#include "abs.h"
+#include "billow.h"
+#include "blend.h"
+#include "cache.h"
+#include "clamp.h"
+#include "const.h"
+#include "curve.h"
+#include "exponent.h"
+#include "max.h"
+#include "min.h"
+#include "multiply.h"
+#include "perlin.h"
+#include "power.h"
+#include "ridgedmulti.h"
+#include "scalebias.h"
+#include "select.h"
+#include "terrace.h"
+#include "turbulence.h"
+#include "voronoi.h"
+#endif // MODULES_H
